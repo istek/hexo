@@ -123,8 +123,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    #light: /images/hornetambientayto.webp # light mode
-    light: https://www.xiaobaby.eu.org/file/814a102837a12576beb43-9ff2af098796139812.jpg
+    light: /images/hornetambientayto.webp # light mode
+    #light: https://www.xiaobaby.eu.org/file/814a102837a12576beb43-9ff2af098796139812.jpg
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
   title: The fireworks of Stanley
