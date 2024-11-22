@@ -76,7 +76,7 @@ global:
     scale: false # scale effect
   # Scroll progress
   scroll_progress:
-    bar: false # progress bar
+    bar: true # progress bar
     percentage: true # percentage
   # Website counter
   website_counter:
@@ -129,7 +129,7 @@ home_banner:
   title: The fireworks of Stanley
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: ['Loading...'] # subtitle text, array
     hitokoto:  # 一言配置
       enable: true # Whether to enable hitokoto
       show_author: true # Whether to show author
@@ -200,10 +200,12 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    # Archives: 
-    #   path: /archives 
-    #   icon: fa-regular fa-archive # can be empty
-    # Status: 
+    About:
+      path: /about
+      icon: fa-regular fa-user
+    Archives: 
+      path: /archives 
+      icon: fa-regular fa-archive # can be empty    # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
     # About: 
@@ -240,15 +242,15 @@ home:
     announcement: # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
-      # Archives: 
-      #   path: /archives 
-      #   icon: fa-regular fa-archive # can be empty
-      # Tags: 
-      #   path: /tags 
-      #   icon: fa-regular fa-tags # can be empty
-      # Categories: 
-      #   path: /categories 
-      #   icon: fa-regular fa-folder # can be empty
+      Archives: 
+       path: /archives 
+       icon: fa-regular fa-archive # can be empty
+      Tags: 
+       path: /tags 
+       icon: fa-regular fa-tags # can be empty
+      #Categories: 
+      # path: /categories 
+      # icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
