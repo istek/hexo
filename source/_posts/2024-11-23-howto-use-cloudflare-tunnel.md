@@ -8,7 +8,7 @@ tags:
  - CloudFlare
 ---
 
-## Tunnel可以做什么[^cfa]
+## Tunnel可以做什么[^1]
 
 - 将本地网络的服务暴露到公网，可以理解为内网穿透。 例如我们在本地服务器 192.168.1.1:3000 搭建了一个 Transmission 服务用于 BT 下载，我们只能在内网环境才能访问这个服务，但通过内网穿透技术，我们可以在任何广域网环境下访问该服务。相比 NPS 之类传统穿透服务，Tunnel 不需要公网云服务器，同时自带域名解析，无需 DDNS 和公网 IP。
 - 将非常规端口服务转发到 80/443 常规端口。 无论是使用公网 IP + DDNS 还是传统内网穿透服务，都免不了使用非常规端口进行访问，如果某些服务使用了复杂的重定向可能会导致 URL 中端口号丢失而引起不可控的问题，同时也不够优雅。
@@ -84,4 +84,4 @@ docker run --name cloudflared -d --restart unless-stop cloudflare/cloudflared:la
 除了上述直接转发 http 服务之外，Tunnel 还支持 RDP、SSH 等协议的转发，玩法丰富，有待各位探索。作为一款免费的服务，简单的配置，低门槛使用条件，适合各位 Self-hosted 玩家尝试。不过要注意的是 Tunnel 在国内访问速度不快，并且有断流的情况，请酌情使用。
 
 
-[^cfa]: https://sspai.com/post/79278
+[^1]: https://sspai.com/post/79278
