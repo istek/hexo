@@ -39,7 +39,7 @@ sudo docker run cloudflare/cloudflared:latest tunnel --no-autoupdate run --proto
 2024-11-26T09:11:41Z ERR Serve tunnel error error="TLS handshake with edge error: EOF" connIndex=0 event=0 ip=198.18.0.49
 ```
 
-又是查网络发现这个(issue)[https://github.com/cloudflare/cloudflared/issues/376]说的靠谱，我家里是软路由透明代理，DNS应该是使用了旁路由的DNS，导致了这个问题，于是我把NAS的dns地址手动指定为我的主路由地址，再次运行docker，查看日志，it works!
+又是查网络发现这个[issue](https://github.com/cloudflare/cloudflared/issues/376)说的靠谱，我家里是软路由透明代理，DNS应该是使用了旁路由的DNS，导致了这个问题，于是我把NAS的dns地址手动指定为我的主路由地址，再次运行docker，查看日志，it works!
 
 ```
 2024-11-26T09:20:02Z INF Initial protocol http2
