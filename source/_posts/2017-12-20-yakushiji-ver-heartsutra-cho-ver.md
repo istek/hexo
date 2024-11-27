@@ -3,7 +3,7 @@ title: 般若心経 コーラス ver. (heartsutra cho ver.) / 薬師寺寛邦(�
 date: 2017-12-20 15:39:30
 layout: post
 tags: 
-  - 薬師寺寛邦
+  - '薬師寺寛邦'
 categories:
   - 音乐
 ---

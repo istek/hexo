@@ -3,9 +3,9 @@ title: 部署WordPress+PostgreSQL
 date: 2020-11-08 09:24:35
 type: post
 category:
-    - Linux
+ - Linux
 tag:
-	- WordPress
+ - WordPress
 ---
 
 想起来PostgreSQL这么优秀的开源数据库，难道Wordpress不支持吗？于是乎一番搜索，发现Wordpress原生是不支持PostgreSQL的，只能通过插件的形式更换数据库，这个插件名叫[PG4WP](https://github.com/gmercey/PG4WP "PG4WP")。

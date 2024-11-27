@@ -3,9 +3,9 @@ title: 'CentOS 7 配置 OpenVPN'
 date: 2019-10-23 21:05:51
 type: post
 category:
-    - Linux
+  - Linux
 tag:
-    - OpenVPN
+  - OpenVPN
 ---
 使用环境：
 -----

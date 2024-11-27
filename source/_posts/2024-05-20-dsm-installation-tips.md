@@ -3,9 +3,9 @@ title: "ESXI安装群晖后的一些设置"
 date: 2024-05-20T09:24:35+08:00
 type: post
 category: 
-  - Linux
+ - Linux
 tags:
-  - 云存储
+ - 云存储
 ---
 
 1. USB硬盘直通后，按照HDD进行挂载。

@@ -5,7 +5,7 @@ type: post
 category:
  - Linux
 tags:
- - openssh
+ - OpenWRT
 ---
 
 其实完全可以使用openssh替换掉openwrt中的dropbear，毕竟咱们用的软路由不会在意那一点内存的。

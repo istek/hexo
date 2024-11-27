@@ -3,9 +3,9 @@ title: '安装 Google BBR 加速VPS网络'
 date: 2018-08-20 12:23:18
 type: post
 category:
-    - Linux
+ - Linux
 tag:
-    - BBR
+ - BBR
 ---
 
 在使用Google BBR之前，我们首先要了解它是什么。了解计算机网络的人都知道，在TCP连接中，由于需要维持连接的可靠性，引入了拥塞控制和流量管理的方法。Google BBR就是谷歌公司提出的一个开源TCP拥塞控制的算法。

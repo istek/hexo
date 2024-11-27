@@ -3,9 +3,9 @@ title: "Stay With Me - Miki Matsubara"
 date: 2024-11-23T20:50:32+08:00
 draft: false
 categories:
- - 分享
-tags:
  - 音乐
+tags:
+ - Miki Matsubara
 ---
 
 抖音流行了一个阶段，歌曲来自2008年发布的《Miki Matsubara Best Collection》 专辑。我特地查了一下这个歌星，很可惜的是在2004年10月7日，因宫颈癌去世，享年44岁。

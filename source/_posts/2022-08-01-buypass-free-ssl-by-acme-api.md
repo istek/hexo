@@ -5,7 +5,7 @@ type: post
 category:
  - Linux
 tags:
- - Let's Encrypt
+ - "Let's Encrypt"
 ---
 
 BuyPass 是挪威的一家 CA 机构，提供数字证书、安全认证产品等多种服务。目前 BuyPass 提供了类似 Let's Encrypt 的基于 ACME/Certbot 的证书自动签发服务 - BuyPass GO Free SSL，免费！

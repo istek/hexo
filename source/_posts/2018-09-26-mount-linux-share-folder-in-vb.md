@@ -3,9 +3,9 @@ title: 'VirtualBox Linux客户机挂载宿主机目录'
 date: 2018-09-26 23:28:26
 type: post
 category:
-    - Linux
+  - Linux
 tag:
-    - VirtualBox
+  - VirtualBox
 ---
 宿主机情况
 -----
