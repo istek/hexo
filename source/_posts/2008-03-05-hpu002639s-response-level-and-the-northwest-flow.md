@@ -3,10 +3,9 @@ title: HP的响应级别及西北流程
 date: 2008-03-05T23:26:44+00:00
 layout: post
 categories:
-  - 分享
+  - 我的世界
 tags:
-  - hp
-  - 工作流程
+  - HP
 ---
 
 目前HP客户的响应级别主要有24\*7，5\*9，P24，CS，MCP，AO。

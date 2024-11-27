@@ -3,8 +3,6 @@ title: Jazz music video
 date: 2008-06-15T19:44:52+00:00
 layout: post
 categories:
-  - 分享
-tags:
   - 音乐
 ---
 

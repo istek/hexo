@@ -1,5 +1,5 @@
 ---
-title: 开心了，舒服了，心情自然也好了。
+title: '开心了，舒服了，心情自然也好了。'
 date: 2006-11-02T04:33:27+00:00
 layout: post
 categories:

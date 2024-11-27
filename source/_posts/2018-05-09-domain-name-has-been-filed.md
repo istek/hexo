@@ -2,8 +2,6 @@
 title: "域名已经备案完成"
 date: 2018-05-29 20:51:00
 layout: post
-tags: 
-  - 随笔
 categories:
   - 我的世界
 ---

@@ -1,5 +1,5 @@
 ---
-title: Yahoo MeMe代言人
+title: 'Yahoo MeMe代言人'
 date: 2009-09-06T21:52:01+00:00
 layout: post
 categories:

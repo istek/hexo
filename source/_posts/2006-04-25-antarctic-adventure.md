@@ -2,7 +2,6 @@
 title: 南极大冒险
 date: 2006-04-25T02:11:36+00:00
 layout: post
-guid: http://www.mstz.us/?p=334
 categories:
   - 我的世界
 ---

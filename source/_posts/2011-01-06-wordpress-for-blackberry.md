@@ -5,8 +5,7 @@ layout: post
 categories:
   - 分享
 tags:
-  - wordpress
-  - 黑莓
+  - WordPress
 ---
 终于给自己的黑莓安装了这个软件，以后可以在没事，比较闲的时候，在手机上编辑和发布新文章了。wordpress for blackberry的官方站点，因为墙的原因，目前必须要跨墙访问，具体如何做，请Google相关文章。
 

@@ -3,7 +3,7 @@ title: '陈绮贞 &#8211; 太多'
 date: 2011-09-04T12:41:38+00:00
 layout: post
 categories:
-  - 分享
+  - 音乐
 tags:
   - 陈绮贞
 ---

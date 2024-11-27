@@ -1,5 +1,5 @@
 ---
-title: 迷失的故事.
+title: '迷失的故事.'
 date: 2006-04-14T02:13:33+00:00
 layout: post
 categories:

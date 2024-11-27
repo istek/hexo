@@ -3,9 +3,9 @@ title: Mozilla Firefox 9
 date: 2011-12-27T04:08:43+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - firefox
+  - Firefox
 ---
 
 Mozilla 发布了 Firefox 9 正式版本，带来了**显著提升 JavaScript 性能的类型推断**。

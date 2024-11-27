@@ -1,12 +1,11 @@
 ---
-title: 他来自地球 The man from the earth
+title: '他来自地球 The man from the earth'
 date: 2008-05-29T19:34:29+00:00
 layout: post
 categories:
-  - 分享
+  - 音乐
 tags:
   - The man from the earth
-  - 音乐
 ---
 
 你在每天不断的问你自己，你是谁吗？

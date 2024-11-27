@@ -1,5 +1,5 @@
 ---
-title: 注意！有人翘板！
+title: '注意！有人翘板！'
 date: 2006-02-17T09:32:32+00:00
 layout: post
 categories:

@@ -5,7 +5,7 @@ layout: post
 categories:
   - 分享
 tags:
-  - honda
+  - Honda
 ---
 
 这个视频向大家展示了CBF1000的组装过程，由意大利工厂组装，发动机自日本进口。直列四缸的力量，真的是澎湃啊。

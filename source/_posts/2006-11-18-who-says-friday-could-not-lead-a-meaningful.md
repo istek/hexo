@@ -1,5 +1,5 @@
 ---
-title: 谁说周五不能过的有意义？
+title: '谁说周五不能过的有意义？'
 date: 2006-11-18T13:58:09+00:00
 layout: post
 categories:

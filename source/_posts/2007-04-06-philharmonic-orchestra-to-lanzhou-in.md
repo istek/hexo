@@ -1,5 +1,5 @@
 ---
-title: 爱乐团到兰州了!
+title: '爱乐团到兰州了!'
 date: 2007-04-06T10:53:24+00:00
 layout: post
 categories:

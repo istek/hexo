@@ -1,5 +1,5 @@
 ---
-title: Happy Birthday!
+title: 'Happy Birthday!'
 date: 2006-02-07T01:51:27+00:00
 layout: post
 categories:

@@ -3,9 +3,7 @@ title: VPS安装Debian后需要做的事情
 date: 2015-12-11T06:18:00+00:00
 layout: post
 categories:
-  - 分享
-tags:
-  - Debian
+  - Linux
 ---
 每次给VPS安装DEBIAN后，发现有些事情是必须做的，为了免得再去东找西找，特意把需要做的事情都记录下来。
 

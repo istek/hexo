@@ -1,5 +1,5 @@
 ---
-title: 10月21日Blog被黑
+title: '10月21日Blog被黑'
 date: 2006-10-23T08:08:29+00:00
 layout: post
 categories:

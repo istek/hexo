@@ -5,7 +5,7 @@ layout: post
 categories:
   - 分享
 tags:
-  - 免费资源
+  - DNS
 ---
 
 电信DNS列表 — 按拼音排序

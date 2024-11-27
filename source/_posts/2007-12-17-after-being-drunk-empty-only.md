@@ -1,5 +1,5 @@
 ---
-title: After being drunk,empty only!
+title: 'After being drunk,empty only!'
 date: 2007-12-17T07:51:38+00:00
 layout: post
 categories:

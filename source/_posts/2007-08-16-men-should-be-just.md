@@ -1,5 +1,5 @@
 ---
-title: 男人要干脆！
+title: '男人要干脆！'
 date: 2007-08-16T16:21:00+00:00
 layout: post
 categories:

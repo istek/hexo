@@ -5,7 +5,7 @@ layout: post
 categories:
   - 分享
 tags:
-  - dlink
+  - 'D-Link'
 ---
 
 这两天要在自己的台式机上做几个试验，于是昨天晚上在硬盘上安装了Windows 2003 sp2，但是设置好IIS之后，无论是内网还是公网，都无法访问我的台式机，非常懊恼，因为我已经在我的dlink 624+a上设置了virtual server HTTP，也就是所谓的端口映射，全部都是默认值，没有修改什么，可怎么都无法访问。

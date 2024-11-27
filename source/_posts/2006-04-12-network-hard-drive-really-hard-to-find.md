@@ -1,5 +1,5 @@
 ---
-title: 网络硬盘真难找~
+title: '网络硬盘真难找~'
 date: 2006-04-12T07:51:52+00:00
 layout: post
 categories:

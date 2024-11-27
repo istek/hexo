@@ -1,5 +1,5 @@
 ---
-title: 驾照考试又没过。
+title: '驾照考试又没过。'
 date: 2006-10-13T08:59:31+00:00
 layout: post
 categories:

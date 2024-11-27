@@ -1,5 +1,5 @@
 ---
-title: 什么是爱情本质？
+title: '什么是爱情本质？'
 date: 2009-07-28T01:06:38+00:00
 layout: post
 categories:

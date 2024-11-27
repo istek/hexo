@@ -1,11 +1,11 @@
 ---
-title: some nginx rewrite rules
+title: some Nginx rewrite rules
 date: 2011-10-30T23:18:18+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - nginx
+  - Nginx
 ---
 
 客户要用DISCUZ作为交流论坛，从网上找了一个DISCUZ规则，发现不对，现发出正确的规则。

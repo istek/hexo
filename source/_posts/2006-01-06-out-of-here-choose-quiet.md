@@ -1,5 +1,5 @@
 ---
-title: 离开这里,选择宁静!
+title: '离开这里,选择宁静!'
 date: 2006-01-06T04:16:59+00:00
 layout: post
 categories:

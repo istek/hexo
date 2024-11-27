@@ -3,12 +3,9 @@ title: Ubuntu 9.04 Nginx+php+mysql
 date: 2010-06-07T15:38:52+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - nginx
-  - php
-  - Ubuntu
-  - MySQL
+  - PHP
 ---
 
 由于Ubuntu 9.04已经包含了nginx，所以根本不要编译，安装超简单！

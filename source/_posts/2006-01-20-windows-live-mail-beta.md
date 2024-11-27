@@ -1,11 +1,9 @@
 ---
-title: Windows Live Mail Beta?!
+title: 'Windows Live Mail Beta?!'
 date: 2006-01-20T08:52:48+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - wlm
+  - Windows
 ---
 ![](https://www3.imagine-msn.com/minisites/images/waitlists/header/WinLive.MailBeta.Logo.gif)
 

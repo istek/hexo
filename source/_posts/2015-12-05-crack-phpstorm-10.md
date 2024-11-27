@@ -1,11 +1,11 @@
 ---
-title: Phpstorm 10注册办法
+title: PhpStorm 10注册办法
 date: 2015-12-05T06:13:55+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - 软件分享
+  - PhpStorm
 ---
 
 无意中发现的！特地与众位朋友分享，内容如下：

@@ -1,5 +1,5 @@
 ---
-title: 新年新语!
+title: '新年新语!'
 date: 2006-01-01T17:36:01+00:00
 layout: post
 categories:

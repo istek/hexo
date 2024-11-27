@@ -1,5 +1,5 @@
 ---
-title: 送走了一个哥们，难受！
+title: '送走了一个哥们，难受！'
 date: 2007-09-01T16:13:17+00:00
 layout: post
 categories:

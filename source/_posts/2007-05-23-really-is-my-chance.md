@@ -1,5 +1,5 @@
 ---
-title: 真的是我的机会吗？
+title: '真的是我的机会吗？'
 date: 2007-05-23T14:33:30+00:00
 layout: post
 categories:

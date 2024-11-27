@@ -3,8 +3,6 @@ title: 十首穿透你心的经典歌曲
 date: 2006-04-04T06:19:26+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - 音乐
 ---
 

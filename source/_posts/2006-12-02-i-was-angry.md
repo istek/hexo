@@ -1,5 +1,5 @@
 ---
-title: 我就愤怒！
+title: '我就愤怒！'
 date: 2006-12-02T05:56:10+00:00
 layout: post
 categories:

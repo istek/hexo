@@ -1,5 +1,5 @@
 ---
-title: 开心哦!工作得到了肯定!
+title: '开心哦!工作得到了肯定!'
 date: 2005-12-28T02:49:12+00:00
 layout: post
 categories:

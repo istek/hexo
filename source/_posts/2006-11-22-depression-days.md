@@ -1,5 +1,5 @@
 ---
-title: 压抑的日子。
+title: '压抑的日子。'
 date: 2006-11-22T13:31:28+00:00
 layout: post
 categories:

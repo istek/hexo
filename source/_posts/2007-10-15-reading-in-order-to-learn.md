@@ -1,5 +1,5 @@
 ---
-title: 看书，为了好好学习！
+title: '看书，为了好好学习！'
 date: 2007-10-15T05:42:38+00:00
 layout: post
 categories:

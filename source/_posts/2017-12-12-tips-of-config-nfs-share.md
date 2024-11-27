@@ -3,10 +3,9 @@ title: 配置NFS共享的要点
 date: 2017-12-12 22:53:30
 layout: post
 tags: 
-  - nfs
-  - CentOS
+  - NFS
 categories:
-  - 分享
+  - Linux
 ---
 # NFS配置要点
 

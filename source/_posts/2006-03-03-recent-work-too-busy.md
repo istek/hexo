@@ -1,5 +1,5 @@
 ---
-title: 最近的工作太忙了!
+title: '最近的工作太忙了!'
 date: 2006-03-03T09:21:37+00:00
 layout: post
 categories:

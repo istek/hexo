@@ -1,5 +1,5 @@
 ---
-title: Cisco 515E防火墙与Winmail
+title: 'Cisco 515E防火墙与Winmail'
 date: 2005-11-04T03:18:24+00:00
 layout: post
 categories:
@@ -13,9 +13,9 @@ categories:
 打开Cisco 515e console,执行下面的命令
 
 ```
-＃configure terminal //进入终端配置模式
-＃no fixup protocol smtp 25  //关闭fixup smtp.
-＃write mem //写入内存保存
+＃configure terminal //进入终端配置模式
+＃no fixup protocol smtp 25 //关闭fixup smtp.
+＃write mem //写入内存保存
 ```
 
 就可以了。
@@ -23,7 +23,7 @@ categories:
 最好能打开25端口
 
 ```
-＃conduit permit tcp host IP eq smtp any  //允许any主机到IP:25的TCP连接
+＃conduit permit tcp host IP eq smtp any  //允许any主机到IP:25的TCP连接
 ```
 
 CISCO 515E好难配，我在console里面转了半天，才知道从哪里可以`no fixup`,`conduit`。晕，要学习的东西太多了。

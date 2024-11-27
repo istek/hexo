@@ -1,5 +1,5 @@
 ---
-title: 耐心，多一点耐心
+title: '耐心，多一点耐心'
 date: 2007-05-25T05:48:19+00:00
 layout: post
 categories:

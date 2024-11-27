@@ -5,7 +5,7 @@ type: post
 category:
     - Linux
 tag:
-    - openvpn
+    - OpenVPN
 ---
 使用环境：
 -----

@@ -1,5 +1,5 @@
 ---
-title: OS终于安装完了！
+title: 'OS终于安装完了！'
 date: 2006-04-18T07:19:41+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 世界到底怎么了?!
+title: '世界到底怎么了?!'
 date: 2006-04-09T14:36:29+00:00
 layout: post
 categories:

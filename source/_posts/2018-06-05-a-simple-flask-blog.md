@@ -3,7 +3,7 @@ title: "一个简单的flask框架博客"
 date: 2018-06-05 20:22:00
 layout: post
 tags: 
-  - python
+  - Python
 categories:
   - 分享
 thumbnail: "https://krazel-1256848099.cos.ap-chengdu.myqcloud.com/img/TIM-20180605202208.png"

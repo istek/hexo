@@ -1,5 +1,5 @@
 ---
-title: 农历二十三，灶王爷爷拜拜！
+title: '农历二十三，灶王爷爷拜拜！'
 date: 2007-02-11T12:17:37+00:00
 layout: post
 categories:

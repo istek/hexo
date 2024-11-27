@@ -1,5 +1,5 @@
 ---
-title: 我想对你说……
+title: '我想对你说……'
 date: 2006-10-29T18:08:51+00:00
 layout: post
 categories:

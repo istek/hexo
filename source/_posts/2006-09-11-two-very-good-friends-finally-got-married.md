@@ -1,5 +1,5 @@
 ---
-title: 2个很要好的朋友终于结婚了!
+title: '2个很要好的朋友终于结婚了!'
 date: 2006-09-11T12:44:58+00:00
 layout: post
 categories:

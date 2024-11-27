@@ -1,5 +1,5 @@
 ---
-title: 好朋友喜得千金！
+title: '好朋友喜得千金！'
 date: 2007-09-26T05:33:17+00:00
 layout: post
 categories:

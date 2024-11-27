@@ -1,12 +1,11 @@
 ---
-title: WingIDE的特别烹制办法(☆_☆)/~~
+title: 'WingIDE的特别烹制办法(☆_☆)/~~'
 date: 2016-11-08T21:12:55+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - wingide
-  - 软件分享
+  - WingIDE
 ---
 WingIDE是Python程序语言设计的集成开发环境，具有语法标签高亮显示，命令自动完成，函数跳转列表等非常强大的功能。
 

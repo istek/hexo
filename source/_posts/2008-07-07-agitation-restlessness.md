@@ -1,5 +1,5 @@
 ---
-title: 躁动，不安
+title: '躁动，不安'
 date: 2008-07-07T20:07:25+00:00
 layout: post
 categories:

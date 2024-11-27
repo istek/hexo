@@ -3,10 +3,9 @@ title: Wordpres和Ghost博客互转
 date: 2017-06-19T12:29:50+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - ghost
-  - wordpress
+  - WordPress
 ---
 前两天将自己的博客由wordpress转为ghost，google的过程是痛苦的，因为要验证是否可行，参考了很多文章[^1]，最后搞定了。
 

@@ -1,5 +1,5 @@
 ---
-title: 今天得了个orkut!
+title: '今天得了个orkut!'
 date: 2006-05-21T14:20:46+00:00
 layout: post
 categories:

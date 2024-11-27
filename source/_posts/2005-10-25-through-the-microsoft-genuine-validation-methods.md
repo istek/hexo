@@ -1,11 +1,9 @@
 ---
-title: 通过微软正版验证的方法！
+title: "通过微软正版验证的方法！"
 date: 2005-10-25T08:11:40+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - windows
+  - Windows
 ---
 
 微软验证通过新方法(适合winxp任何版本)

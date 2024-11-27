@@ -1,5 +1,5 @@
 ---
-title: 今天,我自由了!
+title: '今天,我自由了!'
 date: 2006-09-12T15:26:28+00:00
 layout: post
 categories:

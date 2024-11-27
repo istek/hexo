@@ -3,9 +3,9 @@ title: Firefox简单优化加速浏览
 date: 2012-09-14T02:08:00+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - firefox
+  - Firefox
 ---
 
 目前firefox和google chrome都不错，但是我个人用firefox还是比较多，主要是扩展确实多，速度和内存消耗方面已经比以前好很多了。

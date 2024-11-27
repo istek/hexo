@@ -1,5 +1,5 @@
 ---
-title: 放2个连连看吧.
+title: '放2个连连看吧.'
 date: 2006-04-12T15:05:21+00:00
 layout: post
 categories:

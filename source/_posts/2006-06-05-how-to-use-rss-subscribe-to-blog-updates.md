@@ -1,11 +1,11 @@
 ---
-title: 如何使用RSS订阅Blog更新?
+title: '如何使用RSS订阅Blog更新?'
 date: 2006-06-05T15:40:33+00:00
 layout: post
 categories:
-  - 我的世界
+  - Windows
 tags:
-  - 使用技巧
+  - RSS
 ---
 
 本来一直想做一个视频教程给大家,后来试验了一下,做出来的swf文件要十几兆哦，就没继续做下去了。今天，我就把切图讲解一下如何使用FeedDemon来订阅网站更新，以我的网站为例。

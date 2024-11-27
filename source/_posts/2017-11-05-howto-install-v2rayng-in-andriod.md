@@ -5,7 +5,7 @@ layout: post
 tags:
   - v2ray
 categories:
-  - 分享
+  - Windows
 ---
 鉴于上月十九大召开期间，网络管制相当厉害，好多SSR和SS被屏蔽了，后来发现V2ray还能使用，于是使用了一个阶段的V2ray，感觉挺好用的，速度不比SS/SSR差，而且是真实的TLS加密通讯，非常不错，今天把安卓手机安装客户断的过程写一下。
 

@@ -5,7 +5,7 @@ layout: post
 categories:
   - 分享
 tags:
-  - 免费资源
+  - DNS
 ---
 一些台湾和香港 ISP 的 DNS Server，供DNS劫持时使用。
 

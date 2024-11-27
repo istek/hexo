@@ -1,5 +1,5 @@
 ---
-title: 博客终于恢复正常了……
+title: '博客终于恢复正常了……'
 date: 2007-10-16T07:41:34+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 明天工作，正常的生活开始了。
+title: "明天工作，正常的生活开始了。"
 date: 2005-11-24T11:07:29+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 又是周末，又见孤独。
+title: '又是周末，又见孤独。'
 date: 2006-11-04T15:19:19+00:00
 layout: post
 categories:

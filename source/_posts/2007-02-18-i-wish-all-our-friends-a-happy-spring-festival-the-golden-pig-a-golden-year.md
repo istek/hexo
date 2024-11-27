@@ -1,5 +1,5 @@
 ---
-title: 祝各位朋友新春愉快，金猪金年
+title: '祝各位朋友新春愉快，金猪金年'
 date: 2007-02-18T06:24:24+00:00
 layout: post
 categories:

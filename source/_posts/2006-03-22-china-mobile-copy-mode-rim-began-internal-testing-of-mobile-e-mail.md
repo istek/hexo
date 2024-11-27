@@ -1,5 +1,5 @@
 ---
-title: 中移动复制RIM模式 移动电邮开始内部测试
+title: '中移动复制RIM模式 移动电邮开始内部测试'
 date: 2006-03-22T12:34:32+00:00
 layout: post
 categories:

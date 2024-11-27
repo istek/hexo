@@ -1,5 +1,5 @@
 ---
-title: 博客瘫痪了三天……
+title: '博客瘫痪了三天……'
 date: 2007-06-04T14:55:59+00:00
 layout: post
 categories:

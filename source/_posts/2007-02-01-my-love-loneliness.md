@@ -1,5 +1,5 @@
 ---
-title: 我的爱，寂寞
+title: '我的爱，寂寞'
 date: 2007-02-01T14:10:52+00:00
 layout: post
 categories:

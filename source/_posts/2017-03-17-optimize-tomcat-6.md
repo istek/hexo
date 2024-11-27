@@ -1,11 +1,11 @@
 ---
-title: tomcat 6/7 优化
+title: 'tomcat 6/7 优化'
 date: 2017-03-17T19:03:57+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - tomcat
+  - Tomcat
 ---
 
 ## tomcat的运行模式

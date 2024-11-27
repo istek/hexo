@@ -3,10 +3,9 @@ title: PM中的一些标准
 date: 2008-03-05T23:43:01+00:00
 layout: post
 categories:
-  - 分享
+  - 我的世界
 tags:
-  - hp
-  - 工作流程
+  - HP
 ---
 
 * 火线-零线电压是198V～232V。仅测量机柜内PDU或标准插座。

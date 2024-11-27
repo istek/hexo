@@ -3,10 +3,9 @@ title: CentOS 6.7安装MariaDB 5.5
 date: 2016-02-02T06:27:15+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
-  - 数据库
+  - MariaDB
 ---
 
 ## 一、配置Yum源

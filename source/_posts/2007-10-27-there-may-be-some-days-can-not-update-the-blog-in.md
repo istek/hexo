@@ -1,5 +1,5 @@
 ---
-title: 可能有些日子不能更新blog了！
+title: '可能有些日子不能更新blog了！'
 date: 2007-10-27T22:57:36+00:00
 layout: post
 categories:

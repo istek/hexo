@@ -1,10 +1,11 @@
 ---
-title: 孙燕姿,Beauty!My super star!!!!!!
+title: '孙燕姿,Beauty!My super star!!!!!!'
 date: 2005-12-29T02:19:51+00:00
 layout: post
 categories:
   - 我的世界
 ---
+
 新专辑《完美的一天》真的好好多，燕子，支持你！眼泪成诗最让我动心的一首佳作哦。她的歌曲越来越好听了～永远支持你。
 
 ![完美的一天](https://ws1.sinaimg.cn/large/622271cdly1fm830zdeotj20gl0glgmz.jpg)

@@ -1,5 +1,5 @@
 ---
-title: RSS博客聚合器正式上线了！
+title: 'RSS博客聚合器正式上线了！'
 date: 2006-06-06T06:59:40+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 回来了～～～～
+title: '回来了～～～～'
 date: 2006-11-12T14:45:59+00:00
 layout: post
 categories:

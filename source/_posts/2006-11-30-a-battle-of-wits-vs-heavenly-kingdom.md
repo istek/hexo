@@ -1,5 +1,5 @@
 ---
-title: 墨攻 VS 天朝王国
+title: '墨攻 VS 天朝王国'
 date: 2006-11-30T15:38:04+00:00
 layout: post
 categories:

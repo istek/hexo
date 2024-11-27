@@ -1,5 +1,5 @@
 ---
-title: 单身节快乐！
+title: '单身节快乐！'
 date: 2006-11-12T14:56:09+00:00
 layout: post
 categories:

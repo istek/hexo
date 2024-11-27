@@ -1,5 +1,5 @@
 ---
-title: 我也出一回电影!
+title: '我也出一回电影!'
 date: 2007-04-28T15:43:35+00:00
 layout: post
 categories:

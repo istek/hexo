@@ -3,10 +3,9 @@ title: MSLive信箱的收取办法
 date: 2009-09-14T02:22:40+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - foxmail
-  - hotmail
+  - Hotmail
 ---
 
 那天我写了一篇日志,是关于使用FreePOPs收取msn,live信箱的[办法](how-foxmail-income-msn-cn-e-mail/). 后来, 我发现我的办法其实已经过时了, 或者说根本不能适用于现在的LIVE和MSN信箱了, 其实MSN,LIVE是支持POP和SMTP的, 只是我们都没有发现而已.

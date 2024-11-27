@@ -1,17 +1,18 @@
 ---
-title: Opera 9.0速度超快！
+title: "Opera 9.0速度超快！"
 date: 2005-10-23T03:44:31+00:00
 layout: post
 categories:
-  - 我的世界
+  - Windows
 tags:
-  - firefox
+  - Firefox
 ---
 Opera最近真是喜讯不断，一个月前刚免费，下载量猛增，今天就推出了9.0第一个Build测试版－－Build 8031 Technology Preview 1。
 
 笔者在Opera官方论坛发现不少用户几乎疯狂地反映Opera 9.0速度非凡，于是抱着小白鼠的心态安装了新测试版。既然是测试版，总要找个页面来测试速度吧？还用多说么？自然是选择驱家的首页来测试。
 
 速度－－－确实惊人！
+<!--more-->
 
 Maxthon在凌晨1点半的此刻打开驱家首页需要约3秒钟，[Firefox](http://www.mozilla.org/products/firefox/)也需要停顿一下，而新Opera 9.0完全在瞬间完成页面渲染，速度明显快过Maxthon和[Firefox](http://www.mozilla.org/products/firefox/)。
 

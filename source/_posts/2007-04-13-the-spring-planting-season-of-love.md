@@ -1,5 +1,5 @@
 ---
-title: 春天，播种爱的季节
+title: '春天，播种爱的季节'
 date: 2007-04-13T02:46:36+00:00
 layout: post
 categories:

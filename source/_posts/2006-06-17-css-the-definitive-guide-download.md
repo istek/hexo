@@ -1,11 +1,11 @@
 ---
-title: CSS权威指南（下载）
+title: 'CSS权威指南（下载）'
 date: 2006-06-17T16:24:41+00:00
 layout: post
 categories:
-  - 我的世界
+  - 开发
 tags:
-  - 软件分享
+  - CSS
 ---
 
 又名: Cascading Style Sheets：The Definitive Guide

@@ -1,12 +1,11 @@
 ---
-title: Ciara-So what
+title: 'Ciara-So what'
 date: 2007-04-29T03:31:02+00:00
 layout: post
 categories:
-  - 分享
+  - 音乐
 tags:
   - Ciara
-  - 音乐
 ---
 
 今年的新歌吧，无意中看到，顺便拽下来了。

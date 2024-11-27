@@ -3,10 +3,9 @@ title: CentOS安装php加速软件Zend Guard
 date: 2012-07-05T19:45:58+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
-  - php
+  - PHP
 ---
 
 说明：PHP5.3以上的版本不再支持Zend Optimizer，已经被全新的 Zend Guard Loader 取代，下面是安装Zend Guard具体步骤，以下操作均在终端命令行执行

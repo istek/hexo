@@ -1,5 +1,5 @@
 ---
-title: 交规过了！开心
+title: '交规过了！开心'
 date: 2006-03-08T07:52:15+00:00
 layout: post
 categories:

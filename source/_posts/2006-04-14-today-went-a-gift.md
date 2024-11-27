@@ -1,5 +1,5 @@
 ---
-title: 今天去送礼了!
+title: '今天去送礼了!'
 date: 2006-04-14T13:08:38+00:00
 layout: post
 categories:

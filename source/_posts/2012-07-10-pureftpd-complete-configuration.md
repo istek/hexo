@@ -1,14 +1,13 @@
 ---
-title: Pureftpd完全配置
+title: Pure-FTPd完全配置
 date: 2012-07-10T07:52:00+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
-  - pure-ftpd
+  - Pure-FTPd
 ---
-这篇文档描述了在CentOS 6.2下安装Pureftpd服务器，包括使用MySQL的虚拟用户，磁盘配额，带宽管理，TLS加密会话和集成病毒检查功能。
+这篇文档描述了在CentOS 6.2下安装Pure-FTPd服务器，包括使用MySQL的虚拟用户，磁盘配额，带宽管理，TLS加密会话和集成病毒检查功能。
 
 在文档开始之前，假设你已经安装好了基本的CentOS 6.2操作系统，且网络正常，安装并配置好了MySQL数据库。如果没有，下面简单说明一下。<!--more-->
 
@@ -38,7 +37,7 @@ groupadd -g 2001 ftpgroup
 useradd -u 2001 -s /bin/false -d /bin/null -c "pureftpd user" -g ftpgroup ftpuser
 ```
 
-# 创建pureftpd使用的mysql库
+# 创建Pure-FTPd使用的mysql库
 
 现在我们创建一个pureftpd数据库和一个pureftpd守护进程用于连接pureftpd数据库的mysql用户。
 ```
@@ -70,7 +69,7 @@ mysql> CREATE TABLE ftpd (
 mysql> quit;
 ```
 
-# 配置PureFTPD
+# 配置Pure-FTPd
 ```
 vi /etc/pure-ftpd/pure-ftpd.conf
 ```
@@ -117,7 +116,7 @@ chkconfig --levels 235 pure-ftpd on
 service pure-ftpd start
 ```
 
-# 测试pureftpd
+# 测试Pure-FTPd
 
 现在我们创建一个用户，使用ftp工具连接服务器实验一下。
 ```
@@ -128,12 +127,12 @@ quit;
 
 现在用工具连接看看情况。是不是连上了？
 
-# 安装OPENSSL（TLS会话）
+# 安装OpenSSL（TLS会话）
 ```
 yum install openssl
 ```
 
-# 配置PureFTPD
+# 配置Pure-FTPd
 ```
 [...] # This option can accept three values :
 # 0 : disable SSL/TLS encryption layer (default).
@@ -175,7 +174,7 @@ Email Address []: &lt;– 输入你的Email地址
 chmod 600 /etc/ssl/private/pure-ftpd.pem
 ```
 
-之后重启PureFTPD使之生效
+之后重启Pure-FTPd使之生效
 
 ```
 service pure-ftpd restart
@@ -193,7 +192,7 @@ chkconfig --levels 235 clamd on
 /etc/init.d/clamd start
 ```
 
-# 配置PureFTPd
+# 配置Pure-FTPd
 
 编辑`/etc/pure-ftpd/pure-ftpd.conf` 文件，修改 `CallUploadScript` 的值为`YES`。
 ```

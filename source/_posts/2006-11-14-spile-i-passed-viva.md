@@ -1,5 +1,5 @@
 ---
-title: 桩子，我过了！万岁！
+title: '桩子，我过了！万岁！'
 date: 2006-11-14T14:32:32+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 得之，我幸；不得，我命！
+title: '得之，我幸；不得，我命！'
 date: 2006-12-24T16:28:39+00:00
 layout: post
 categories:

@@ -3,9 +3,8 @@ title: CentOS 6.2MySQL主从同步配置
 date: 2012-07-07T09:01:50+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
   - MySQL
 ---
 

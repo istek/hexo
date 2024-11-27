@@ -11,7 +11,7 @@ tag:
 
 几经辗转，笔者终于找到了可行且容易的解决方法，效果看图：  
 ![finished](https://oss.zhoutao.ren/img/0.9598380483868156.png)
-
+<!--more-->
 具体操作流程如下：
 
 1、下载`Office自定义工具（OCT）` 微软官方下载页面：`https://www.microsoft.com/en-us/download/details.aspx?id=49030`；大家根据自己的操作系统版本选择32位或者64位，后面以64位为例子来做讲解。

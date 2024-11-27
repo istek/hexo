@@ -1,5 +1,5 @@
 ---
-title: 最近博客不正常！
+title: '最近博客不正常！'
 date: 2007-05-11T03:06:27+00:00
 layout: post
 categories:

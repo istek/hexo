@@ -5,7 +5,7 @@ type: post
 category:
     - Linux
 tag:
-	- VPS
+	- Xray
 ---
 
 # 准备工作

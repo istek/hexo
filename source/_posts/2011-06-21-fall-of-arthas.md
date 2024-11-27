@@ -3,7 +3,7 @@ title: 《fall of Arthas》
 date: 2011-06-21T19:10:28+00:00
 layout: post
 categories:
-  - 分享
+  - 音乐
 tags:
   - WOW
 ---

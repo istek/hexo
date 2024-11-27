@@ -1,5 +1,5 @@
 ---
-title: 你恨我吗？
+title: '你恨我吗？'
 date: 2008-06-19T19:56:22+00:00
 layout: post
 categories:

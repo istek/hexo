@@ -1,5 +1,5 @@
 ---
-title: 今天又白忙活了！
+title: '今天又白忙活了！'
 date: 2007-08-21T16:57:05+00:00
 layout: post
 categories:

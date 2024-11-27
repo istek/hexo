@@ -3,10 +3,9 @@ title: HP-UX下OC4J的故障处理二例
 date: 2012-11-23T00:09:14+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - hpux
-  - oc4j
+  - HP-UX
 ---
 
 我们这个平台使用的是HP的小机rx6600，因为跑java程序，所以选用了oracle公司的oc4j这个中间件，顺便吐槽一下,这个oc4j真的太麻烦，太讨厌了，搞不懂公司当初在实施的时候，为什么不采用weblogic或者是websphere这类的中间件。

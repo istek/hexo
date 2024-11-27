@@ -1,9 +1,7 @@
 ---
-id: 482
 title: 梦醒之后的那一片天空
 date: 2006-09-16T02:37:01+00:00
 layout: post
-guid: http://www.mstz.us/?p=482
 categories:
   - 我的世界
 ---

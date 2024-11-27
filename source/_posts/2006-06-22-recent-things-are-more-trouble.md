@@ -1,5 +1,5 @@
 ---
-title: 最近的事情比较多,比较烦!
+title: '最近的事情比较多,比较烦!'
 date: 2006-06-22T12:44:39+00:00
 layout: post
 categories:

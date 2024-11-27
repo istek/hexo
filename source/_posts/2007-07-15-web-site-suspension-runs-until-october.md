@@ -1,5 +1,5 @@
 ---
-title: 网站暂停运行，直到10月！！！
+title: '网站暂停运行，直到10月！！！'
 date: 2007-07-15T15:30:45+00:00
 layout: post
 categories:

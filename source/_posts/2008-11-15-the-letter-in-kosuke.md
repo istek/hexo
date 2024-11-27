@@ -3,7 +3,7 @@ title: '花海 &#8211; 中孝介'
 date: 2008-11-15T09:34:04+00:00
 layout: post
 categories:
-  - 分享
+  - 音乐
 tags:
   - 中孝介
 ---

@@ -1,8 +1,7 @@
 ---
-title: 天气寒冷咯~
+title: "天气寒冷咯~"
 date: 2005-10-21T15:07:46+00:00
 layout: post
-guid: http://www.mstz.us/?p=14
 categories:
   - 我的世界
 ---

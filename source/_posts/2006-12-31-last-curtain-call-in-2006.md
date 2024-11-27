@@ -1,5 +1,5 @@
 ---
-title: 2006年终于谢幕了。
+title: '2006年终于谢幕了。'
 date: 2006-12-31T07:06:41+00:00
 layout: post
 categories:

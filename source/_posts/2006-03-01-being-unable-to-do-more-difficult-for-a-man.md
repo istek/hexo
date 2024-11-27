@@ -1,5 +1,5 @@
 ---
-title: 做人难，做男人更难！
+title: '做人难，做男人更难！'
 date: 2006-03-01T01:38:08+00:00
 layout: post
 categories:

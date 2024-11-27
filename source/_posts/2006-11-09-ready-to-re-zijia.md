@@ -1,5 +1,5 @@
 ---
-title: 准备再次自驾。
+title: '准备再次自驾。'
 date: 2006-11-09T02:51:47+00:00
 layout: post
 categories:

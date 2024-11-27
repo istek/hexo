@@ -1,11 +1,9 @@
 ---
-title: Windows Live Messenger真的不错!
+title: 'Windows Live Messenger真的不错!'
 date: 2006-02-02T16:35:25+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - wlm
+  - Windows
 ---
 
 ![abc](https://www5.imagine-msn.com/minisites/images/waitlists/header/WinLive.MSGRBeta.Logo.gif)

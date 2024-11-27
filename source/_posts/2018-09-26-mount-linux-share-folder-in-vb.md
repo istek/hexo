@@ -2,11 +2,10 @@
 title: 'VirtualBox Linux客户机挂载宿主机目录'
 date: 2018-09-26 23:28:26
 type: post
-id: 2318
 category:
     - Linux
 tag:
-    - virtualbox
+    - VirtualBox
 ---
 宿主机情况
 -----
@@ -21,7 +20,7 @@ OS：Ubuntu 18.04.1
 ```bash
 sudo apt install build-essential
 ```
-
+<!--more-->
 安装virtualbox增强功能
 ----------------
 

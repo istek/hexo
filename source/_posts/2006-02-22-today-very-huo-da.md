@@ -1,5 +1,5 @@
 ---
-title: 今天火大的很！
+title: '今天火大的很！'
 date: 2006-02-22T13:46:30+00:00
 layout: post
 categories:

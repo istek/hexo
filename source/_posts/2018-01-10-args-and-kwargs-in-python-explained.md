@@ -3,7 +3,7 @@ title: "*args and `**kwargs` in python explained"
 date: 2018-01-10 15:04:50
 layout: post
 tags: 
-  - python
+  - Python
 categories:
   - 分享
 ---

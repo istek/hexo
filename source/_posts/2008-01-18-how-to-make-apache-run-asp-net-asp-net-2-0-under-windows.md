@@ -1,12 +1,11 @@
 ---
-title: How to make Apache run ASP.NET / ASP.NET 2.0 under windows
+title: 'How to make Apache run ASP.NET / ASP.NET 2.0 under windows'
 date: 2008-01-18T18:56:46+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - 'c#'
-  - windows
+  - ASP.NET
 ---
 Don't ask me why… but i've been asked to make Apache run ASP.NET.
 

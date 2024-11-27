@@ -1,5 +1,5 @@
 ---
-title: 这两天我的电脑跟我干上了！
+title: '这两天我的电脑跟我干上了！'
 date: 2006-05-11T00:48:03+00:00
 layout: post
 categories:

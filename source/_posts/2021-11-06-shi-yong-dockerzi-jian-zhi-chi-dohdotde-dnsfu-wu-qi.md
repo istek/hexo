@@ -5,7 +5,7 @@ type: post
 category:
  - Linux
 tags:
- - adguard
+ - AdGuard
 ---
 
 DoH (DNS over HTTPS) 和 DoT (DNS over TLS) 有效避免了运营商的 DNS 监听和劫持，本文记录在公网搭建一个可以去广告的 DNS 服务器（借助 Adguard Home）。

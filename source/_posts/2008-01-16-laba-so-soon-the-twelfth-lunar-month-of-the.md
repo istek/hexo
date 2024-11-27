@@ -1,5 +1,5 @@
 ---
-title: 腊八，这么快就腊月了
+title: '腊八，这么快就腊月了'
 date: 2008-01-16T04:50:31+00:00
 layout: post
 categories:

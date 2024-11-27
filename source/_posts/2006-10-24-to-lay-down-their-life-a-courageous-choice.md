@@ -1,5 +1,5 @@
 ---
-title: 放下生活，勇敢选择
+title: '放下生活，勇敢选择'
 date: 2006-10-24T02:40:35+00:00
 layout: post
 categories:

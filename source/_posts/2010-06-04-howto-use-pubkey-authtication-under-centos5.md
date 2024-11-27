@@ -3,10 +3,9 @@ title: Howto use Pubkey Authtication under CentOS5
 date: 2010-06-04T16:31:51+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
-  - openssh
+  - OpenSSH
 ---
 
 This’s a article show you howto use pubkey authtication under CentOS. Ok, let’s continue.

@@ -3,7 +3,7 @@ title: Daniel Powter《Free Loop》
 date: 2008-12-18T01:33:06+00:00
 layout: post
 categories:
-  - 分享
+  - 音乐
 tags:
   - Daniel Powter
 ---

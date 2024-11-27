@@ -3,10 +3,9 @@ title: 'openSUSE 12.3安装sun jdk 1.6.0_45'
 date: 2013-04-29T02:44:57+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
   - jdk
-  - opensuse
 ---
 
 openSUSE 12.3自带的是openjdk 1.7.0，而我们需要的是sun jdk，搜索了一下网上的文章，多数都是抄袭，都没有验证过。接下来，主要是安装的步骤。

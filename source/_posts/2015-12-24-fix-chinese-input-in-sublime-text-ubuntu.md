@@ -3,9 +3,9 @@ title: 完美解决Ubuntu下无法在Sublime Text2输入中文
 date: 2015-12-24T06:21:13+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - Ubuntu
+  - "Sublime Text"
 ---
 系统：Ubuntu 15.10
 

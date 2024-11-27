@@ -1,5 +1,5 @@
 ---
-title: 最新消息:网络生活将于周五开放
+title: '最新消息:网络生活将于周五开放'
 date: 2006-08-09T03:24:18+00:00
 layout: post
 categories:

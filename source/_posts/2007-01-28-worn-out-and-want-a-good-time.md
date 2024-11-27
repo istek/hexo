@@ -1,5 +1,5 @@
 ---
-title: 好累，好开心！
+title: '好累，好开心！'
 date: 2007-01-28T15:54:42+00:00
 layout: post
 categories:

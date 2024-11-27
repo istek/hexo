@@ -3,9 +3,9 @@ title: EVA4400的array controller
 date: 2008-07-31T06:31:18+00:00
 layout: post
 categories:
-  - 分享
+  - 我的世界
 tags:
-  - hp
+  - HP
 ---
 
 最近在做浦发银行的安装，碰到了几个菜的棘手问题。SMA上安装了HBA卡的storport驱动，但是发现EVA HSV 300 ARRAY CONTROLLER在设备管理器中仍然是other device，上面一个questions mark，我就很晕，前些日子，做铁路局的安装，使用的是同一个驱动，都没有出现这个问题，为什么这次就出现了呢，开了一个内部call，rc说是驱动用得不合适，我很郁闷，于是他告诉我去下载对应操作系统的驱动，另外还要安装一个windows的补丁，就可以了。

@@ -5,7 +5,7 @@ layout: post
 categories:
   - 我的世界
 tags:
-  - gpg
+  - GPG
 ---
 为什么要使用PGP？
 

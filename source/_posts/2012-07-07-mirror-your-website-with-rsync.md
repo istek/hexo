@@ -3,9 +3,8 @@ title: 使用rsync同步服务器文件
 date: 2012-07-07T08:42:14+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
   - rsync
 ---
 

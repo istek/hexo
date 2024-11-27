@@ -1,5 +1,5 @@
 ---
-title: GMail Notifier Lite For PJBlog2
+title: 'GMail Notifier Lite For PJBlog2'
 date: 2006-01-10T02:58:32+00:00
 layout: post
 categories:

@@ -3,10 +3,9 @@ title: CentOS安装php加速软件Zend Optimizer 3.3.9
 date: 2012-07-05T19:40:33+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
-  - php
+  - PHP
 ---
 
 **引言：**

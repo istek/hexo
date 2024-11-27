@@ -1,5 +1,5 @@
 ---
-title: 放假完了,开始上班了!
+title: '放假完了,开始上班了!'
 date: 2006-01-05T08:46:25+00:00
 layout: post
 categories:

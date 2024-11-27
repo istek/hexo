@@ -1,5 +1,5 @@
 ---
-title: 伟大祖国万岁！
+title: '伟大祖国万岁！'
 date: 2007-10-01T07:18:28+00:00
 layout: post
 categories:

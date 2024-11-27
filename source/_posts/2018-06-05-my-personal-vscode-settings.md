@@ -3,10 +3,9 @@ title: "我的VSCode个性化设置"
 date: 2018-06-05 20:12:00
 layout: post
 tags: 
-  - python
-  - vscode
+  - VSCode
 categories:
-  - 分享
+  - Windows
 thumbnail: "https://krazel-1256848099.cos.ap-chengdu.myqcloud.com/img/TIM-20180605201127.png"
 ---
 

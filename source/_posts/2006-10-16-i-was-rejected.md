@@ -1,5 +1,5 @@
 ---
-title: 我被否定了？
+title: '我被否定了？'
 date: 2006-10-16T07:56:06+00:00
 layout: post
 categories:

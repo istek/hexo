@@ -1,5 +1,5 @@
 ---
-title: weblog编写感触!
+title: 'weblog编写感触!'
 date: 2006-05-18T13:29:30+00:00
 layout: post
 categories:

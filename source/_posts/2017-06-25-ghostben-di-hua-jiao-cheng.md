@@ -3,9 +3,9 @@ title: Ghost本地化教程
 date: 2017-06-25T23:00:56+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - ghost
+  - Ghost
 ---
 
 众所周知的原因，当国外的一些好产品进入国内后，总会水土不服，让人体验不好，这不是产品的原因，相反，这是因为被我们的伟大的墙阻挡了。

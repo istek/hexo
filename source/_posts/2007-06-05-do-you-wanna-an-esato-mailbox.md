@@ -1,5 +1,5 @@
 ---
-title: 想要一个@bestzhou.org的信箱吗？
+title: '想要一个@bestzhou.org的信箱吗？'
 date: 2007-06-05T10:58:06+00:00
 layout: post
 categories:

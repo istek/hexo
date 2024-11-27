@@ -1,11 +1,9 @@
 ---
-title: We were soldiers
+title: 'We were soldiers'
 date: 2007-01-30T07:52:13+00:00
 layout: post
 categories:
-  - 分享
-tags:
-  - 电影
+  - 音乐
 ---
 Today I reviewed the movie We Were Soldiers.I respect them in no doubt.The movie based on novell <We were soldiers once…and young>.Right now I paste some paragraphes below.Enjoy Yourself!
 

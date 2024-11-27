@@ -1,11 +1,9 @@
 ---
-title: Windows Live Messenger自助邀请！
+title: 'Windows Live Messenger自助邀请！'
 date: 2006-02-07T03:02:49+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - wlm
+  - Windows
 ---
 
 这是官方邀请\`~可能会在24小时发放到你的邮箱

@@ -1,5 +1,5 @@
 ---
-title: 又上班了~
+title: '又上班了~'
 date: 2006-05-09T00:55:01+00:00
 layout: post
 categories:

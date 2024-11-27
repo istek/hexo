@@ -1,5 +1,5 @@
 ---
-title: 桌面图片几张！
+title: '桌面图片几张！'
 date: 2006-06-14T14:31:57+00:00
 layout: post
 guid: http://www.mstz.us/?p=410

@@ -1,5 +1,5 @@
 ---
-title: 醉过方知酒浓，爱过才知情深。
+title: '醉过方知酒浓，爱过才知情深。'
 date: 2005-12-26T13:38:45+00:00
 layout: post
 categories:

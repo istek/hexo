@@ -1,16 +1,16 @@
 ---
-title: 除了爱情-梦飞船
+title: '除了爱情-梦飞船'
 date: 2005-12-25T16:52:48+00:00
 layout: post
 categories:
-  - 我的世界
+  - 音乐
 tags:
   - 梦飞船
-  - 音乐
 ---
 
 作曲 : Jim
 作词 : 黄舒骏
+<!--more-->
 
 	Love can save you
 	And love can break you

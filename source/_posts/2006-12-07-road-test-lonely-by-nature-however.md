@@ -1,5 +1,5 @@
 ---
-title: 路考不过+寂寞成性
+title: '路考不过+寂寞成性'
 date: 2006-12-07T04:16:57+00:00
 layout: post
 categories:

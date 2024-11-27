@@ -3,10 +3,9 @@ title: Linux下ARP绑定
 date: 2010-04-28T02:55:27+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - iptables
-  - linux
+  - ARP
 ---
 
 ## 一.ARP协议简介

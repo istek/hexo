@@ -1,5 +1,5 @@
 ---
-title: 周五感冒休息！
+title: '周五感冒休息！'
 date: 2006-12-02T16:46:37+00:00
 layout: post
 categories:

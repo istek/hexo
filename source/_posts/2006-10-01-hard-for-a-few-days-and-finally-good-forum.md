@@ -1,5 +1,5 @@
 ---
-title: 辛苦了几天,终于论坛好了!
+title: '辛苦了几天,终于论坛好了!'
 date: 2006-10-01T17:13:21+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 因本站被黑，请朋友们注意一下！
+title: '因本站被黑，请朋友们注意一下！'
 date: 2006-10-23T08:17:11+00:00
 layout: post
 categories:

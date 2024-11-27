@@ -1,5 +1,5 @@
 ---
-title: Merry Christmas!各位朋友
+title: 'Merry Christmas!各位朋友'
 date: 2009-12-27T20:14:02+00:00
 layout: post
 categories:

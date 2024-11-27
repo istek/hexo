@@ -3,10 +3,9 @@ title: Ubuntu Pure-FTPd服务安装配置+虚拟用户
 date: 2010-03-02T21:05:08+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - pure-ftpd
-  - Ubuntu
+  - Pure-FTPd
 ---
 **_Pure-FTPd FTP server：_**
 

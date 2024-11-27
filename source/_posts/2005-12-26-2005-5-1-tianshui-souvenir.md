@@ -1,5 +1,5 @@
 ---
-title: 2005-5-1 天水留念
+title: '2005-5-1 天水留念'
 date: 2005-12-26T04:20:15+00:00
 layout: post
 guid: http://www.mstz.us/?p=146

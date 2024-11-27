@@ -3,9 +3,9 @@ title: How to Unroot your OnePlus 3 / 3T and go back completely to stock
 date: 2017-06-05T19:13:07+00:00
 layout: post
 categories:
-  - 分享
+  - Andriod
 tags:
-  - oneplus3
+  - OnePlus3
 ---
 
 周末刷了一下自己的手机，用的TWRP的recovery，刷了一个RR的rom，用了一天感觉没有官方的版本好，于是就想刷回去，折腾了一上午，最后从一加国外官方站，找到了这篇救急的文章，终于把自己的加3刷回去了。太费劲了。用来用去，还是官方原版好使，唉，这就是折腾啊。

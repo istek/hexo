@@ -1,5 +1,5 @@
 ---
-title: 又到周末了，时间过的快啊
+title: '又到周末了，时间过的快啊'
 date: 2006-12-08T12:47:17+00:00
 layout: post
 categories:

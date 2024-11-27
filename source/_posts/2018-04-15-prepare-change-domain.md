@@ -2,8 +2,6 @@
 title: "本站准备更换域名"
 date: 2018-04-15 00:33:50
 layout: post
-tags: 
-  - 随笔
 categories:
   - 我的世界
 ---

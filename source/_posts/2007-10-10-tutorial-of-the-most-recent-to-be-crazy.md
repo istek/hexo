@@ -1,5 +1,5 @@
 ---
-title: 最近要疯狂补习了~
+title: '最近要疯狂补习了~'
 date: 2007-10-10T06:58:41+00:00
 layout: post
 categories:

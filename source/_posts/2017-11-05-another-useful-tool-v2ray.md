@@ -5,7 +5,7 @@ layout: post
 tags:
   - v2ray
 categories:
-  - 分享
+  - Windows
 ---
 
 # 多协议支持

@@ -5,7 +5,7 @@ type: post
 category:
     - Windows
 tag:
-    - proxifier
+    - Proxifier
 ---
 基于众所周知的原因，gitlab，github要上传下载代码实在是太慢了，很多人使用``git config``配置全局代理的方式加速上传下载。
 

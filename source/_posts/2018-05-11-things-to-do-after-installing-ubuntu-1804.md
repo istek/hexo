@@ -5,7 +5,7 @@ layout: post
 tags: 
   - Ubuntu
 categories:
-  - 分享
+  - Linux
 ---
 youtube上看到的，分享给各位，看看思路是否一致。
 

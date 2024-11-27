@@ -3,9 +3,9 @@ title: winxp不能更新Internet时间
 date: 2009-02-05T22:54:07+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - windows
+  - ntp
 ---
 错误是RPC不可用或者更新出错，导致WINXP不能更新Internet时间。
 

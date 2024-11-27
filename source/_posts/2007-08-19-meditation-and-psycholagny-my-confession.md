@@ -1,5 +1,5 @@
 ---
-title: 冥想与意淫-我的自白
+title: '冥想与意淫-我的自白'
 date: 2007-08-19T16:12:26+00:00
 layout: post
 categories:

@@ -1,11 +1,9 @@
 ---
-title: 给大家提供几个小巧的好东东～
+title: 给大家提供几个小巧的好东东
 date: 2005-11-15T04:04:24+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - windows
+  - Windows
 ---
 
 第一个：
@@ -13,7 +11,7 @@ tags:
 专门给NB用户用的，可以检测CPU的运行频率，CPU温度，硬盘温度，充电电压。
 
 [点击下载此文件](attachments/month_0511/a20051114115831.rar)
-
+<!--more-->
 第二个：
 
 测试显示器显示性能好坏的小东东。

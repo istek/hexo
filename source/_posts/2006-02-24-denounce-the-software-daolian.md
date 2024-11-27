@@ -1,5 +1,5 @@
 ---
-title: 声讨软件盗链!
+title: '声讨软件盗链!'
 date: 2006-02-24T02:00:04+00:00
 layout: post
 categories:

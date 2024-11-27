@@ -1,5 +1,5 @@
 ---
-title: 今天买了手卷烟！
+title: '今天买了手卷烟！'
 date: 2006-03-19T14:49:23+00:00
 layout: post
 categories:

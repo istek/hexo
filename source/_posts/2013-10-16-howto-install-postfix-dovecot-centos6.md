@@ -3,9 +3,9 @@ title: CENTOS6安装POSTFIX和dovecot
 date: 2013-10-16T18:42:23+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags: 
-  - postfix
+  - Postfix
 ---
 
 ## 1、安装系统包

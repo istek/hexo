@@ -3,11 +3,9 @@ title: CentOS下nginx+php+fastcgi笔记
 date: 2011-10-15T08:14:43+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
-  - nginx
-  - php
+  - PHP
 ---
 
 Centos版本5.7，首先需要做的进行内核优化。下面是内核优化参数

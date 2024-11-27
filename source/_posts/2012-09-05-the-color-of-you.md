@@ -3,7 +3,7 @@ title: 'Lisa Ekdah &#8211; The color of you'
 date: 2012-09-05T21:05:10+00:00
 layout: post
 categories:
-  - 分享
+  - 音乐
 tags:
   - Lisa Ekdah
 ---

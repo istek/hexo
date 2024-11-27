@@ -3,10 +3,9 @@ title: 经典影片推荐《Romeo+Juliet》
 date: 2007-06-26T13:53:34+00:00
 layout: post
 categories:
-  - 分享
+  - 音乐
 tags:
-  - romeo juliet
-  - 电影
+  - Romeo+Juliet
 ---
 ![romeo+juliet](https://res.cloudinary.com/the-backyard-of-stanley/image/upload/v1512713434/51MHMZA9X9L._SY445__lddocy.jpg)
 <!--more-->

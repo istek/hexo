@@ -1,11 +1,11 @@
 ---
-title: Building a DAL using Strongly Typed TableAdapters
+title: 'Building a DAL using Strongly Typed TableAdapters'
 date: 2006-06-11T05:21:22+00:00
 layout: post
 categories:
-  - 我的世界
+  - 开发
 tags:
-  - 'c#'
+  - 'ASP.NET'
 ---
 
 无意中从asp.net的一个播客上发现了关于dataset和tableadapter的用法。比较详细。记录下来。

@@ -1,5 +1,5 @@
 ---
-title: 买了新MP3。
+title: 买了新MP3
 date: 2006-09-28T15:28:31+00:00
 layout: post
 categories:

@@ -3,10 +3,9 @@ title: 关于Windows Live Mail与Windows Mail 不能向新闻组发贴的解决
 date: 2008-09-30T01:56:56+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - windows
-  - wlm
+  - Windows Live Mail
 ---
 
 随着Win VISTA的普及，不少用户选择了Windows Mail与Windows Live Mail替代原来OE，但不少朋友反映，Windows Mail与Windows Live Mail在访问一些国内新闻组（如新帆新闻组）的时候出现能够同步，不能发送的现象！错误代码如下：

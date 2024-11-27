@@ -1,5 +1,5 @@
 ---
-title: 感谢生命，感谢音乐
+title: '感谢生命，感谢音乐'
 date: 2006-12-11T15:51:04+00:00
 layout: post
 categories:

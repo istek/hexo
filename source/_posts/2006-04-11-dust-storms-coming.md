@@ -1,5 +1,5 @@
 ---
-title: 沙尘暴来了!
+title: '沙尘暴来了!'
 date: 2006-04-11T15:16:38+00:00
 layout: post
 categories:

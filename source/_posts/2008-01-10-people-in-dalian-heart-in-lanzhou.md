@@ -1,5 +1,5 @@
 ---
-title: 人在大连，心在兰州。
+title: '人在大连，心在兰州。'
 date: 2008-01-10T05:49:20+00:00
 layout: post
 categories:

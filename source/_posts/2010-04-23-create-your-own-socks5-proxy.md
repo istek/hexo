@@ -3,10 +3,9 @@ title: Create Your Own Socks5 proxy
 date: 2010-04-23T03:32:23+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - linux
-  - proxy
+  - OpenSSH
 ---
 
 Do you know that you can create your own socks5 proxy with just one command:

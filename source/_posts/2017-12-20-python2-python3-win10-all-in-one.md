@@ -3,9 +3,9 @@ title: python2和python3共存
 date: 2017-12-20 10:35:30
 layout: post
 tags: 
-  - python
+  - Python
 categories:
-  - 分享
+  - 开发
 ---
 ##　安装python3
 
@@ -14,6 +14,8 @@ categories:
 ## 安装python2
 
 安装路径：`C:\Python\Python27`，不要选择配置环境变量，稍后手工配置。
+<!--more-->
+
 
 ## 环境变量
 

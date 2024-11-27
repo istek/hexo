@@ -1,5 +1,5 @@
 ---
-title: 无聊的假期，无聊的春节
+title: '无聊的假期，无聊的春节'
 date: 2007-02-20T15:23:27+00:00
 layout: post
 categories:

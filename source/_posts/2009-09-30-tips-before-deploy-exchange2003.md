@@ -3,9 +3,9 @@ title: 关于部署Exchange 2003的几个需要注意的地方
 date: 2009-09-30T19:46:52+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - exchange2003
+  - Exchange2003
 ---
 在昨天晚上部署Exchange 2003的实验失败之后，总结了下面几点。
 

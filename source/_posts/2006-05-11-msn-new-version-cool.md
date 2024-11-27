@@ -1,5 +1,5 @@
 ---
-title: MSN新版本!!!Cool!
+title: 'MSN新版本!!!Cool!'
 date: 2006-05-11T04:43:11+00:00
 layout: post
 categories:

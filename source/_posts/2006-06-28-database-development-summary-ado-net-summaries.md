@@ -3,9 +3,9 @@ title: 数据库开发总结(ADO.NET小结)
 date: 2006-06-28T14:36:58+00:00
 layout: post
 categories:
-  - 我的世界
+  - 开发
 tags:
-  - 'c#'
+  - 'ASP.NET'
 ---
 **一 用SqlConnection连接SQL Server**
 

@@ -1,5 +1,5 @@
 ---
-title: 这2天疏于来这里了！
+title: '这2天疏于来这里了！'
 date: 2006-03-29T02:02:19+00:00
 layout: post
 categories:

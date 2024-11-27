@@ -3,9 +3,9 @@ title: FCKeditorWeb在线编辑器说明
 date: 2006-05-20T06:02:39+00:00
 layout: post
 categories:
-  - 我的世界
+  - 开发
 tags:
-  - fckeditor
+  - FckEditor
 ---
 
 现在网络上有很多不一样的web在线编辑器，大多数都是商业程序，要使用更多功能的话得掏钱。比如FreeTextbox，CuteEditor（听说它非常强大）。

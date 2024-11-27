@@ -1,5 +1,5 @@
 ---
-title: 紧急!因bestzhou.org突然解析停止，已开通第二域名!
+title: '紧急!因bestzhou.org突然解析停止，已开通第二域名!'
 date: 2006-09-22T12:22:07+00:00
 layout: post
 categories:

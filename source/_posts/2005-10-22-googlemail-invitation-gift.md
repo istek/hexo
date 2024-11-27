@@ -1,5 +1,5 @@
 ---
-title: GoogleMail邀请赠送！
+title: "GoogleMail邀请赠送！"
 date: 2005-10-22T01:32:24+00:00
 layout: post
 categories:

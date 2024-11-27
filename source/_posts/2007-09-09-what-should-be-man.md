@@ -1,5 +1,5 @@
 ---
-title: 应该怎样？！
+title: '应该怎样？！'
 date: 2007-09-09T15:21:20+00:00
 layout: post
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 再见，我的二十多岁！
+title: '再见，我的二十多岁！'
 date: 2010-02-06T18:28:36+00:00
 layout: post
 categories:

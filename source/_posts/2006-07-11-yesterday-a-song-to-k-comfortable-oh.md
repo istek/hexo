@@ -1,5 +1,5 @@
 ---
-title: 昨天去K歌了~舒服哦
+title: '昨天去K歌了~舒服哦'
 date: 2006-07-11T02:22:13+00:00
 layout: post
 categories:

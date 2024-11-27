@@ -3,8 +3,6 @@ title: another jazz video
 date: 2008-06-16T19:47:54+00:00
 layout: post
 categories:
-  - 分享
-tags:
   - 音乐
 ---
 

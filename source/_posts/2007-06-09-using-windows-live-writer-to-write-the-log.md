@@ -1,11 +1,11 @@
 ---
-title: 使用windows live writer书写日志
+title: '使用windows live writer书写日志'
 date: 2007-06-09T11:46:13+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - wlm
+  - Windows Live Writer
 ---
 
 Writer是一个免费的桌面应用程序，您可以使用它在网络日志中轻松发布丰富内容。

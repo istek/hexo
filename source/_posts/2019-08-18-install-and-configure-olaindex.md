@@ -3,9 +3,9 @@ title: 安装及配置OLAINDEX
 date: 2019-08-18 20:35:33
 type: post
 category:
-    - WEB
+    - Linux
 tag:
-    - olaindex
+    - OLAINDEX
 ---
 OLAINDEX是一款 OneDrive 目录文件索引应用，基于优雅的 PHP 框架 Laravel5.8 搭建，并通过 Microsoft Graph 接口获取数据展示，支持多类型帐号登录，多种主题显示，简单而强大。
 
@@ -24,7 +24,7 @@ OLAINDEX是一款 OneDrive 目录文件索引应用，基于优雅的 PHP 框架
 - 后台基本显示管理，多主题管理，文件预览管理等等（清理缓存后及时生效）；
 - 支持世纪互联；
 - 支持多种缓存系统（Redis、Memcached等）；
-
+<!--more-->
 PHP及模块要求
 --------
 

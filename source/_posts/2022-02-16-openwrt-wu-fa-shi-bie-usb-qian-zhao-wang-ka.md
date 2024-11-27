@@ -5,7 +5,7 @@ type: post
 category:
  - Linux
 tags:
- - openwrt
+ - openWRT
 ---
 
 最近几天不知道怎么回事，自己的openwrt好端端的就出现问题了，网络不通了，可以发现是dhcp不工作，没有下发ip，可问题是最近我没有动过路由器啊，很奇怪。

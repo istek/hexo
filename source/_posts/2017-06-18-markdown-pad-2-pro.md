@@ -3,15 +3,15 @@ title: MarkdownPad 2 Pro
 date: 2017-06-18T23:17:02+00:00
 layout: post
 categories:
-  - 分享
+  - Windows
 tags:
-  - 软件分享
+  - MarkdownPad
 ---
 
 此为中文专业破解版，需要的朋友抓紧下载，若资源失效，请联系我。
 
 **使用方法**：
-
+<!--more-->
 1. 首先运行压缩包中的安装程序进行安装原版程序！
 1. 安装完成后记得先不要运行程序！
 1. 复制压缩包中的`Pa_ttrar.exe`和`KG_ttrar.exe`程序到安装目录！

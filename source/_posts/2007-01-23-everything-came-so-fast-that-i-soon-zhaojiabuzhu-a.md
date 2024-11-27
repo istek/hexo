@@ -1,5 +1,5 @@
 ---
-title: 一切来的太快，我快招架不住了！
+title: '一切来的太快，我快招架不住了！'
 date: 2007-01-23T03:26:09+00:00
 layout: post
 categories:

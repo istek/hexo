@@ -1,5 +1,5 @@
 ---
-title: 我的未来到底在哪里？
+title: '我的未来到底在哪里？'
 date: 2006-11-21T15:06:38+00:00
 layout: post
 categories:

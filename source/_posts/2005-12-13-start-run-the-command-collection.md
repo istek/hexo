@@ -1,11 +1,9 @@
 ---
-title: 开始→运行→输入的命令集锦
+title: '开始→运行→输入的命令集锦'
 date: 2005-12-13T03:32:59+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - windows
+  - Windows
 ---
 
 开始→运行→输入的命令集锦
@@ -19,7 +17,7 @@ wupdmgr——–windows更新程序
 wscript——–windows脚本宿主设置
 
 write———-写字板
-
+<!--more-->
 winmsd———系统信息
 
 wiaacmgr——-扫描仪和照相机向导

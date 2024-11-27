@@ -1,5 +1,5 @@
 ---
-title: 人活着是为了什么?!
+title: '人活着是为了什么?!'
 date: 2006-09-21T03:02:12+00:00
 layout: post
 categories:

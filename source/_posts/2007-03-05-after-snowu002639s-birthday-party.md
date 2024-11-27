@@ -1,5 +1,5 @@
 ---
-title: 雪后的生日Party!
+title: '雪后的生日Party!'
 date: 2007-03-05T15:42:00+00:00
 layout: post
 categories:

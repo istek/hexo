@@ -3,10 +3,9 @@ title: How to Install XCache for PHP 5 on CentOS
 date: 2012-08-21T09:16:39+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - CentOS
-  - xcache
+  - PHP
 ---
 
 XCache is a open-source opcode cacher, which means that it accelerates the performance of PHP on servers. It optimizes performance by removing the compilation time of PHP scripts by caching the compiled state of PHP scripts into the shm (RAM) and uses the compiled version straight from the RAM. This will increase the rate of page generation time by up to 5 times as it also optimizes many other aspects of php scripts and reduce server load.

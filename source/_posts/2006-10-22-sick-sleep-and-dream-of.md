@@ -1,5 +1,5 @@
 ---
-title: 生病了，睡觉了，做梦了……
+title: '生病了，睡觉了，做梦了……'
 date: 2006-10-22T14:13:15+00:00
 layout: post
 categories:

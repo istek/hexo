@@ -3,10 +3,9 @@ title: Octoshape支援多平台的P2P客户端
 date: 2011-12-04T23:36:57+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - linux
-  - octoshape
+  - Octoshape
 ---
 
 当需要收听高清的香港电台，或者，收看斯洛文尼亚的电视台，怎么办？哈哈。用octoshape啊。目前支持的节目如下：

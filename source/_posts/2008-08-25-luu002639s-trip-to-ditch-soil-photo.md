@@ -1,5 +1,5 @@
 ---
-title: 土鲁沟之行（照片）
+title: '土鲁沟之行（照片）'
 date: 2008-08-25T01:58:51+00:00
 layout: post
 categories:

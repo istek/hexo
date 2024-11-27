@@ -1,5 +1,5 @@
 ---
-title: Lost In Dalian
+title: 'Lost In Dalian'
 date: 2008-01-13T01:33:40+00:00
 layout: post
 categories:

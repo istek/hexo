@@ -1,5 +1,5 @@
 ---
-title: 最近忽视这里了~
+title: '最近忽视这里了~'
 date: 2006-06-02T13:36:07+00:00
 layout: post
 categories:

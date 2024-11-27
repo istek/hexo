@@ -1,5 +1,5 @@
 ---
-title: 庆祝博客访问量过百万!梨园之行!
+title: '庆祝博客访问量过百万!梨园之行!'
 date: 2007-03-25T17:03:05+00:00
 layout: post
 categories:

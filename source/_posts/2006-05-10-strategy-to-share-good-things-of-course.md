@@ -1,5 +1,5 @@
 ---
-title: 好东西当然要分享咯!
+title: '好东西当然要分享咯!'
 date: 2006-05-10T08:35:01+00:00
 layout: post
 categories:

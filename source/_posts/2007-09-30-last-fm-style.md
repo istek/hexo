@@ -1,5 +1,5 @@
 ---
-title: Last.Fm风格
+title: 'Last.Fm风格'
 date: 2007-09-30T07:44:42+00:00
 layout: post
 categories:

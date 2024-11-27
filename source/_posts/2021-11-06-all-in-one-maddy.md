@@ -5,7 +5,7 @@ type: post
 category:
  - Linux
 tags:
- - maddy
+ - Maddy
 ---
 
 我自己有几台VPS，平时都是吃灰状态，或者，除了翻墙，也再没做什么用途，感觉有点浪费，偶然，我发现了这个Maddy这个好东西，免去了自己配置postfix，dovecat等等之类的服务，仅仅需要配置一个文件就可以了。是不是很容易？

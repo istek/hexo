@@ -1,8 +1,7 @@
 ---
-title: 也许一切都已经变了。
+title: '也许一切都已经变了。'
 date: 2006-03-04T09:02:21+00:00
 layout: post
-
 categories:
   - 我的世界
 ---

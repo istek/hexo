@@ -1,17 +1,16 @@
 ---
-title: Debian 8 升级openssl
+title: 'Debian 8 升级OpenSSL'
 date: 2017-12-17 15:14:30
 layout: post
 tags: 
-  - Debian
-  - openssl
+  - OpenSSL
 categories:
-  - 分享
+  - Linux
 ---
 # Debian 8.X 'Jessie' 升级OpenSSL 1.0.2l
 
 debian jessie 官方软件源默认只安装了 openssl 1.0.1 的版本，对于需要使用 nginx 的朋友来说，使用 http2 的 OpenSSL 最低版本要求是 1.0.2，所以必须要先升级到1.0.2才可以。
-
+<!--more-->
 ##　开启back-ports软件源
 ```bash
 vi /etc/apt/source.list

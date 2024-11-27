@@ -1,5 +1,5 @@
 ---
-title: 今天撞车了~~~
+title: '今天撞车了~~~'
 date: 2006-08-27T14:34:43+00:00
 layout: post
 categories:

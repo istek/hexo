@@ -3,7 +3,7 @@ title: 常用的SQL语法
 date: 2005-10-20T14:56:07+00:00
 layout: post
 categories:
-  - 我的世界
+  - 开发
 tags:
   - SQL
 ---
@@ -16,7 +16,7 @@ SQL: `select * into b from a where 1<>1`
 SQL: `insert into b(a, b, c) select d,e,f from b;`
 
 说明：显示文章、提交人和最后回复时间
-
+<!--more-->
 SQL: `select a.title,a.username,b.adddate from table a,(select max(adddate) adddate from table where table.title=a.title) b`
 
 说明：外连接查询(表名1：a 表名2：b)

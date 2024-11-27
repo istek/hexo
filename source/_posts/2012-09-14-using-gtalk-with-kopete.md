@@ -3,9 +3,9 @@ title: Kopete下使用gtalk
 date: 2012-09-14T02:17:16+00:00
 layout: post
 categories:
-  - 分享
+  - Linux
 tags:
-  - kopete
+  - Kopete
 ---
 
 1.在kopete菜单设置－配置，新建帐户
