@@ -206,7 +206,11 @@ navbar:
       icon: fa-regular fa-user
     Archives: 
       path: /archives 
-      icon: fa-regular fa-archive # can be empty    # Status: 
+      icon: fa-regular fa-archive # can be empty   
+    Categories: #取名随意
+      icon: fa-solid fa-folder #图标
+      path: /categories/ #链接 
+    # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
     # About: 
