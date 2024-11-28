@@ -5,7 +5,7 @@ layout: post
 categories:
   - Linux
 tags:
-  - PHP
+  - LNMP
 ---
 
 Centos版本5.7，首先需要做的进行内核优化。下面是内核优化参数

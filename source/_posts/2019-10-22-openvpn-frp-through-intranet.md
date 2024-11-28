@@ -1,5 +1,5 @@
 ---
-title: OpenVPN+frp突破内网限制
+title: 'OpenVPN+frp突破内网限制'
 date: 2019-10-22 14:19:34
 type: post
 category:

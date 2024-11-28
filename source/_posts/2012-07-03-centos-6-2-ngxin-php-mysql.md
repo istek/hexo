@@ -5,7 +5,7 @@ layout: post
 categories:
   - Linux
 tags:
-  - PHP
+  - LNMP
 ---
 
 ### 1.使用非官方软件源

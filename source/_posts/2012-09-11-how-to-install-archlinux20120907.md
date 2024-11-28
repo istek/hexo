@@ -5,7 +5,7 @@ layout: post
 categories:
   - Linux
 tags:
-  - Installtion
+  - Installation
 ---
 最近心血来潮，想用一下大家都在说很好的一个Linux发行版，[archlinux](http://www.archlinux.org/)。目前在网易镜像上最新的ISO是2012.09.07版，这个版本的改变比较大，主要改变如下：
 

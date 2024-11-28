@@ -1,5 +1,5 @@
 ---
-title: Ubuntu/linuxmint远程桌面windows
+title: 'Ubuntu/linuxmint远程桌面windows'
 date: 2018-09-01 12:24:41
 type: post
 category:

@@ -5,7 +5,7 @@ layout: post
 categories:
   - Linux
 tags:
-  - PHP
+  - LNMP
 ---
 
 由于Ubuntu 9.04已经包含了nginx，所以根本不要编译，安装超简单！

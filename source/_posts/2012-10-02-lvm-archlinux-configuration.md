@@ -5,7 +5,7 @@ layout: post
 categories:
   - Linux
 tags:
-  - Installtion
+  - LVM
 ---
 
 昨天晚上在自己的笔记本上用LVM，尝试一下linux使用lvm的效果，结果grub的安装上就存在问题，安装不了。grub2.0是支持全盘lvm的，但是我不知道为什么，总是安装不成功。目前查阅了一些文章，两种方案:
