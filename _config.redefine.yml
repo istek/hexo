@@ -210,6 +210,9 @@ navbar:
     Categories: #取名随意
       icon: fa-solid fa-folder #图标
       path: /categories/ #链接 
+    Tags: 
+      path: /tags 
+      icon: fa-regular fa-tags # can be empty
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
@@ -250,6 +253,9 @@ home:
       Archives: 
        path: /archives 
        icon: fa-regular fa-archive # can be empty
+      Categories: #取名随意
+       icon: fa-solid fa-folder #图标
+       path: /categories/ #链接 
       Tags: 
        path: /tags 
        icon: fa-regular fa-tags # can be empty
@@ -376,10 +382,10 @@ comment:
     # Giscus comment system. See https://giscus.app/
     giscus:
       repo: istek/istek.github.io # <gh-username>/<repo>
-      repo_id: 'R_kgDOMGf-rw'
+      repo_id: 'R_kgDONV7MXg'
       category: 'General'
-      category_id: 'DIC_kwDOMGf-r84Cf8ZO'
-      mapping: pathname # Which value to use as the unique identifier for the page. e.g. pathname, url, title, og:title. DO NOT USE og:title WITH PJAX ENABLED since pjax will not update og:title when the page changes
+      category_id: 'DIC_kwDONV7MXs4CkrT0'
+      mapping: url # Which value to use as the unique identifier for the page. e.g. pathname, url, title, og:title. DO NOT USE og:title WITH PJAX ENABLED since pjax will not update og:title when the page changes
       strict: 0 # Whether to enable strict mode. e.g. 0, 1
       reactions_enabled: 1 # Whether to enable reactions. e.g. 0, 1
       emit_metadata: 0 # Whether to emit metadata. e.g. 0, 1
