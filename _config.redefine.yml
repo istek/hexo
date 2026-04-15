@@ -172,16 +172,21 @@ home_banner:
     style: default # default, reverse, center
     # Social links
     links:
-      github:  # your GitHub URL
-      instagram: # your Instagram URL
-      zhihu:  # your ZhiHu URL
-      twitter:  # your twitter URL
-      email:  # your email
-      # ...... # you can add more
-    # Social links with QRcode drawers
+      - icon: github # can also be "fa-brands fa-github"
+        url:
+      - icon: twitter
+        url:
+      - icon: email
+        url: you@example.com
+      - icon: telegram
+        url:
+      - icon: /images/custom-icon.svg
+        url:
     qrs:
-      weixin:  # your Wechat QRcode image URL
-      # ...... # you can add more
+      - icon: weixin
+        qr:
+      - icon: /images/custom-icon.svg
+        qr:
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -395,6 +400,18 @@ comment:
       lang: zh-TW # Giscus language. e.g. en, zh-CN, zh-TW
       input_position: bottom # Place the comment box above/below the comments. e.g. top, bottom
       loading: lazy # Load the comments lazily
+    # Artalk comment system. See https://artalk.js.org/
+    artalk:
+      server: # Artalk server URL. e.g. https://artalk.example.com
+      site: # Site name shown in Artalk admin (should match server-side site config)
+    # Utterances comment system. See https://utteranc.es/
+    utterances:
+      repo: # GitHub repository name e.g. owner/repo (Issues must be enabled)
+      issue_term: pathname # pathname, url, title, og:title (recommended: pathname for single-page mode)
+      issue_number: # Use a specific issue number instead of issue_term
+      label: # Optional label for created issues
+      theme_light: github-light # Light theme
+      theme_dark: github-dark # Dark theme
 # COMMENT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -460,7 +477,10 @@ plugins:
   # Mermaid JS. Requires hexo-filter-mermaid-diagrams (npm i hexo-filter-mermaid-diagrams). See https://mermaid.js.org/
   mermaid:
     enable: false # enable mermaid or not
-    version: "9.3.0" # default v9.3.0
+    version: "11.4.1" # default v11.4.1
+    theme:
+      light: "default"
+      dark: "dark"
 # PLUGINS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -471,6 +491,10 @@ page_templates:
   friends_column: 2
   # Tags page style
   tags_style: blur # blur, cloud
+  # Masonry page batch size
+  masonry:
+    batch_size: 12
+    initial_batch_size: 24
 # PAGE TEMPLATES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
