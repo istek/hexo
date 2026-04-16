@@ -65,8 +65,8 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
-  effect: true
+  img: https://www.xiaobaby.eu.org/file/AgACAgEAAyEGAASQfha-AAMlaeDC7pGJKpVftRudXA-Z0C0hxssAAhsMaxtzQQhHJC_dK5FXahsBAAMCAAN4AAM7BA.jpg
+  effect: false
 
 # Disable all banner images
 disable_top_img: false
