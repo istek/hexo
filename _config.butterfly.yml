@@ -163,7 +163,7 @@ subtitle:
   effect: true
   # Customize typed.js
   # https://github.com/mattboldt/typed.js/#customization
-  typed_option: 
+  typed_option:
   # Source - Call the third-party service API (Chinese only)
   # It will show the source first, then show the content of sub
   # Choose: false/1/2/3
@@ -542,7 +542,7 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use: Twikoo
+  use: Disqusjs
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -563,7 +563,7 @@ disqus:
 # Alternative Disqus - Render comments with Disqus API
 # https://github.com/SukkaW/DisqusJS
 disqusjs:
-  shortname:
+  shortname: krazel
   apikey:
   option:
 
@@ -631,7 +631,7 @@ facebook_comments:
 # https://github.com/imaegoo/twikoo
 twikoo:
   envId: https://twikoo99.netlify.app/.netlify/functions/twikoo
-  region: 
+  region:
   # Use Twikoo visitor count as the page view count
   visitor: false
   option:
