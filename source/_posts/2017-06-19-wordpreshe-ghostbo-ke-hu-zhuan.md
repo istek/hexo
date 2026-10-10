@@ -20,21 +20,15 @@ tags:
 _注意：这里仅能导出文章（post）和独立页面（page），无法导出分类，所以必须要先将分类转为tags。_
 
 点击`Download Ghost File`，导出ghost能够导入的json文件。
+
 <!--more-->
 
 ## 2、评论
 
 因为Ghost没有评论系统，所以需要使用第三方评论系统，比如，[disqus](https://www.disqus.com) ,[网易云跟帖](https://gentie.163.com/)。这里我们以disqus为例。
 
-首先，注册disqus账号。
+首先，注册disqus账号。其次，增加一个disqus站点，添加你的域名，之后，在wordpress安装[disqus插件](https://wordpress.org/plugins/disqus-comment-system/)，以你的disqus账号登陆成功后，有一个`Import and Export`设置项目，点击`Export comments to Disqus`后面的`Export Comments`，这样就把wordpress中的评论全部导出到disqus了。
 
-其次，增加一个disqus站点，添加你的域名，
-
-![TIM截图20170619112015](https://qn.esesr.net/2017/06/timjie-tu-20170619112015.png)
-
-之后，在wordpress安装[disqus插件](https://wordpress.org/plugins/disqus-comment-system/)，以你的disqus账号登陆成功后，有一个`Import and Export`设置项目，点击`Export comments to Disqus`后面的`Export Comments`，这样就把wordpress中的评论全部导出到disqus了。
-
-![TIM截图20170619112619](https://qn.esesr.net/2017/06/timjie-tu-20170619112619.png)
 
 ### 3、文件
 
@@ -47,6 +41,7 @@ sed -i .bak -e 's|wp-content\\/images|content\\/images|g' wp2ghost_export_141818
 ### 4、导入
 
 之后将我们编辑过的json文件打包为zip文
+
 ```
 zip wp2ghost.zip wp2ghost_export_1418184250.json
 ```
@@ -60,26 +55,25 @@ zip wp2ghost.zip wp2ghost_export_1418184250.json
 编辑`ghost/content/theme/casper/post.hbs`文件，在`</footer>`和`</article>`之间添加如下代码
 
 ```
-<div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-
-var disqus_config = function () {
-    this.page.url = '{{url absolute="true"}}';
-    this.page.identifier = 'ghost-{{id}}';
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://你的disqus网站名.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% highlight liquid linenos %}
+{% raw %}
+{% <div id="disqus_thread"></div> %}
+{% <script> %}
+{% var disqus_config = function () { %}
+{%     this.page.url = '{{url absolute="true"}}';  %}
+{%     this.page.identifier = 'ghost-{{id}}';  %}
+{% };  %}
+{%  %}
+{% (function() { %}
+{% var d = document, s = d.createElement('script');  %}
+{% s.src = 'https://你的disqus网站名.disqus.com/embed.js';  %}
+{% s.setAttribute('data-timestamp', +new Date());  %}
+{% (d.head || d.body).appendChild(s);  %}
+{% })();  %}
+{% </script>  %}
+{% <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> %}
+{% endraw %}
+{% endhighlight %}
 ```
 
 注意：代码中**你的disqus网站名**，这个填你自己的网站名。
@@ -110,8 +104,6 @@ s.setAttribute('data-timestamp', +new Date());
 
 点击`Labs`菜单，点击 `Export` 按钮，导出json文件。
 
-![2](https://qn.esesr.net/2017/06/timjie-tu-20170619121013.png)
-
 ### 2、导入wordpress
 
 下载`ghost2wp`这个python脚本，经我验证，文章可以完整导入。这个脚本它是解析json文件后，使用XML-RPC协议将所有文章和页面导入wordpress，个人觉得还是挺完美的，貌似无法导入tags，因为我用我的博客实验的，导入后没有tags。它使用了`python-wordpress-xmlrpc`这个模块，要求版本必须大于等于2.3。
@@ -131,7 +123,4 @@ python ghost2wp.py -e http://example.com/xmlrpc.php -f xxx.json -u WP用户名 -
 其实ghost还可以导出为markdown文件，然后使用在其他的静态类博客程序中。比如，ghost2hexo，这是我也试验了，确实可以将所有文章，用slug作为文件名，导出为markdown文件。ghost博客还是挺好使的，和其他的php博客相比，资源占用小，目标明确，就是一个单纯的blog程序，像wordpress，就不应该属于blog程序了，因为太庞大，应该定义到CMS的范畴。
 
 
-
 [^1]: <https://www.ghostforbeginners.com/migrating-your-wordpress-blog-to-ghost/> https://help.ghost.org/hc/en-us/articles/225093168-Migrating-From-WordPress-to-Ghost
-
-
